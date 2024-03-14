@@ -54,7 +54,7 @@ API вернет результат классификации изображе�
 
 #### Installation
 Clone the repository:
-`git clone https://github.com/krsukhorukov/NSFW.git
+`git clone https://github.com/krsukhorukov/NSFW.git`
 Navigate to the project directory:
 `cd your_repository`
 Install the dependencies:
